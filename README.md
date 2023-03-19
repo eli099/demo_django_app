@@ -1,0 +1,1 @@
+Deployed at [demo-django-app.fly.dev](https://demo-django-app.fly.dev/)
